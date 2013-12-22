@@ -598,7 +598,7 @@
                 <key>foreground</key>
                 <string>#AAAAAA</string>
                 <key>background</key>
-                <string>#d1d0d3</string>
+                <string>#dad9db</string>
             </dict>
         </dict>
 
@@ -678,7 +678,7 @@
                 <key>fontStyle</key>
                 <string>bold</string>
                 <key>background</key>
-                <string>#d1d0d3</string>
+                <string>#dad9db</string>
             </dict>
         </dict>
         <dict>
